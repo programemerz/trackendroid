@@ -1,21 +1,20 @@
-# DroidTracker v1.0
-## Author: https://github.com/thelinuxchoice/DroidTracker
-## IG: https://www.instagram.com/linux_choice
-### Don't copy this code without giving me the credits, nerd! 
+# trackendroid v1.2
+A tool to track the live location of the victim by sharing an app.
 
-Script to generate an Android App to track location in real time 
+## Instagram: https://www.instagram.com/programemerz
 
-![dt](https://user-images.githubusercontent.com/34893261/50787116-ae4d2400-129c-11e9-8211-24b6d4011dd2.png)
+![](image.png)
 
 ### Features:
 #### Custom App Name
 #### 2 Port Forwarding options (Ngrok or using SSH Tunneling with Serveo.net)
 #### Obfuscated URL by Tinyurl
-#### Fully Undetectable
+#### FUD (Fully Undetectable)
+#### IP tracker
 
 ## Legal disclaimer:
 
-Usage of DroidTracker for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+Usage of trackendroid for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
 ### Auto Install:
 
@@ -50,14 +49,7 @@ Install SDKMAN
 
 # echo "y" | $HOME/Android/Sdk/tools/bin/sdkmanager "platforms;android-25" "build-tools;25.0.1" "extras;google;m2repository" "extras;android;m2repository"
 
-# git clone https://github.com/thelinuxchoice/droidtracker
-# cd droidtracker
-# bash droidtracker.sh
+# git clone https://github.com/programemerz/trackendroid
+# cd trackendroid
+# bash trackendroid.sh
 ```
-
-### Donate!
-Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
